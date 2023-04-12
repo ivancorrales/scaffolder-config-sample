@@ -1,0 +1,15 @@
+repository:
+  owner: ivancorrales
+  name: my-scaffolded-proejct
+owners:
+  - alias: team1
+    roles:
+      - approver
+      - reviewer
+  - alias: team2
+    roles:
+      - reviewer
+members:
+  - john
+  - jane
+  - david
